@@ -1,5 +1,3 @@
-![alt text](https://github.com/Tedo74/JS-Core/blob/master/javaScriptLogo.png "Logo JS")
-
 # JS-Core
 ## Intro to JavaScript
 [1. Sum 3 Numbers](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/Sum3Numbers.js)
@@ -17,3 +15,8 @@
 [7. Next Day](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/NextDay.js)
 
 [8. DistanceBetweenPoints](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/DistanceBetweenPoints.js)
+
+## ControlFlowLogic
+[1. Multiply Numbers](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/MultiplyNumbers.js)
+
+[2. Boxes and Bottles](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/BoxesAndBottles.js)
