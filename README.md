@@ -14,4 +14,4 @@
 
 [7. Next Day](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/NextDay.js)
 
-[8.DistanceBetweenPoints](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/DistanceBetweenPoints.js)
+[8. DistanceBetweenPoints](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/DistanceBetweenPoints.js)
