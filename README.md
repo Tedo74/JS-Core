@@ -1,3 +1,5 @@
+![alt text](https://github.com/Tedo74/JS-Core/blob/master/javaScriptLogo.png "Logo JS")
+
 # JS-Core
 ## Intro to JavaScript
 [1. Sum 3 Numbers](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/Sum3Numbers.js)
