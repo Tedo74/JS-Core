@@ -15,4 +15,5 @@
 [4. Circle Area](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/CircleArea.js)</br>
 [5. Triangle Area](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/TriangleArea.js)</br>
 [6. Cone](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/Cone.js)</br>
+[7. Odd / Even](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/OddEven.js)</br>
 
