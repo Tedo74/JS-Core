@@ -10,4 +10,9 @@
 [8. DistanceBetweenPoints](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/DistanceBetweenPoints.js)</br>
 ## ControlFlowLogic
 [1. Multiply Numbers](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/MultiplyNumbers.js)</br>
-[2. Boxes and Bottles](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/BoxesAndBottles.js)
+[2. Boxes and Bottles](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/BoxesAndBottles.js)</br>
+[3. Leap Year](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/LeapYear.js)</br>
+[4. Circle Area](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/CircleArea.js)</br>
+[5. Triangle Area](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/TriangleArea.js)</br>
+[6. Cone](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/Cone.js)</br>
+
