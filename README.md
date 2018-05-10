@@ -8,7 +8,7 @@
 [6. Figure Area](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/FigureArea.js)</br>
 [7. Next Day](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/NextDay.js)</br>
 [8. DistanceBetweenPoints](https://github.com/Tedo74/JS-Core/blob/master/IntroToJS/DistanceBetweenPoints.js)</br>
-## ControlFlowLogic
+## Control-FlowLogic
 [1. Multiply Numbers](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/MultiplyNumbers.js)</br>
 [2. Boxes and Bottles](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/BoxesAndBottles.js)</br>
 [3. Leap Year](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/LeapYear.js)</br>
