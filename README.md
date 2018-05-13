@@ -16,4 +16,9 @@
 [5. Triangle Area](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/TriangleArea.js)</br>
 [6. Cone](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/Cone.js)</br>
 [7. Odd / Even](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/OddEven.js)</br>
+[8. Fruit or Vegetable](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/FruitOrVegetable.js)</br>
+[9. Colorful Numbers](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/ColorfulNumbers.js)</br>
+[10. Chessboard](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/Chessboard.js)</br>
+[11. Binary Logarithm](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/BinaryLogarithm.js)</br>
+[12. Prime Number Checker](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/PrimeNumberChecker.js)</br>
 
