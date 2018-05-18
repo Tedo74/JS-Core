@@ -21,4 +21,27 @@
 [10. Chessboard](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/Chessboard.js)</br>
 [11. Binary Logarithm](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/BinaryLogarithm.js)</br>
 [12. Prime Number Checker](https://github.com/Tedo74/JS-Core/blob/master/ControlFlowLogic/PrimeNumberChecker.js)</br>
+## DataTypesExpressionsStatements
+[01. Hello JavaScript!](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/HelloJS.js)</br>
+[02. Area and Perimete](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/RectAreaPerimeter.js)</br>
+[03. Distance over Time](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/DistanceOverTime.js)</br>
+[04. Distance in 3D](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/Distance3D.js)</br>
+[05. Grads to Radians](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/GradsToDegrees.js)</br>
+[06. Compound Interest](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/CompoundInterest.js)</br>
+[07. Rounding](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/Rounding.js)</br>
+[08. Imperial Units](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/ImperialUnits.js)</br>
+[09. Now Playing](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/NowPlaying.js)</br>
+[10. Compose Tag](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/ComposeTag.js)</br>
+[11. Binary to Decimal](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/BinaryToDecimal.js)</br>
+[12. Assign Properties](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/AssignProperties.js)</br>
+[13. Last Month](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/LastMonth.js)</br>
+[14. Biggest of 3 Numbers](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/BiggestOf3Numbers.js)</br>
+[15. Point in Rectangle](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/PointInRectangle.js)</br>
+[16. Odd Numbers 1 to N](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/OddNumbers1ToN.js)</br>
+[17. Triangle of Dollars](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/TriangleOfDollars.js)</br>
+[18. Movie Prices](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/MoviePrices.js)</br>
+[19. Quadratic Equation](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/QuadraticEquation.js)</br>
+[20. Multiplication Table](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/MultiplicationTable.js)</br>
+[21. Figure of 4 Squares](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/FigureOf4Squares.js)</br>
+[22. Monthly Calendar](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/Calendar.js)</br>
 
