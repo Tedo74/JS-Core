@@ -45,4 +45,4 @@
 [20. Multiplication Table](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/MultiplicationTable.js)</br>
 [21. Figure of 4 Squares](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/FigureOf4Squares.js)</br>
 [22. Monthly Calendar](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/Calendar.js)</br>
-
+## Exercises: Functions and Arrow Functions
