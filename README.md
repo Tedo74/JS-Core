@@ -46,3 +46,13 @@
 [21. Figure of 4 Squares](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/FigureOf4Squares.js)</br>
 [22. Monthly Calendar](https://github.com/Tedo74/JS-Core/blob/master/ExercisesDataTypesExpressionsStatements/Calendar.js)</br>
 ## Exercises: Functions and Arrow Functions
+[01. InsideVolume](https://github.com/Tedo74/JS-Core/blob/master/ExerciseFunctions/3.InsideVolume.js)</br>
+[02. RoadRadar](https://github.com/Tedo74/JS-Core/blob/master/ExerciseFunctions/2.RoadRadar.js)</br>
+[03. TemplateFormat](https://github.com/Tedo74/JS-Core/blob/master/ExerciseFunctions/3.TemplateFormat.js)</br>
+[04. CookingByNumbers](https://github.com/Tedo74/JS-Core/blob/master/ExerciseFunctions/4.CookingByNumbers.js)</br>
+[05. ModifyAverage](https://github.com/Tedo74/JS-Core/blob/master/ExerciseFunctions/5.ModifyAverage.js)</br>
+[06. ValidityChecker](https://github.com/Tedo74/JS-Core/blob/master/ExerciseFunctions/6.ValidityChecker.js)</br>
+[07. Treasure Locator](https://github.com/Tedo74/JS-Core/blob/master/ExerciseFunctions/7.Treasure%20Locator.js)</br>
+[08. TripLength](https://github.com/Tedo74/JS-Core/blob/master/ExerciseFunctions/8.TripLength.js)</br>
+[09. RadioCrystals](https://github.com/Tedo74/JS-Core/blob/master/ExerciseFunctions/9.RadioCrystals.js)</br>
+[10. DnaHelix](https://github.com/Tedo74/JS-Core/blob/master/ExerciseFunctions/10.DnaHelix.js)</br>
