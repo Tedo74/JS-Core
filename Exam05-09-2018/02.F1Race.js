@@ -36,15 +36,3 @@ function f1race(arr) {
 
     console.log(pilots.join(" ~ "));
 }
-
-f1race([
-    "Vetel Hamilton Raikonnen Botas Slavi",
-        "Pit Hamilton",
-        "Overtake LeClerc",
-        "Join Ricardo",
-        "Crash Botas",
-        "Overtake Ricardo",
-        "Overtake Ricardo",
-        "Overtake Ricardo",
-        "Crash Slavi"
-    ]);

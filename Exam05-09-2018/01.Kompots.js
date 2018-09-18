@@ -25,14 +25,3 @@ function kompots(arr) {
     console.log(`Plum kompots: ${plumKompots}`);
     console.log(`Rakiya liters: ${rakia}`);
 }
-
-kompots([ 'cherry 1.2',
-    'peach 2.2',
-    'plum 5.2',
-    'peach 0.1',
-    'cherry 0.2',
-    'cherry 5.0',
-    'plum 10',
-    'cherry 20.0' ,
-    'papaya 20' ]
-);
