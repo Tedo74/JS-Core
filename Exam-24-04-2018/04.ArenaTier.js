@@ -29,26 +29,24 @@ function arena(arr) {
             battle(inputLine[0], inputLine[1]);
         }
     }
-    let sortedGladiators = Object.keys(gladiators).sort((a,b) =>{
+    let sortedGladiators = Object.keys(gladiators).sort((a, b) => {
         return gladiators[b].allSkills - gladiators[a].allSkills
-             || a.localeCompare(b);
+            || a.localeCompare(b);
     });
 
     for (let g of sortedGladiators) {
         let currentGladiator = gladiators[g];
         console.log(`${g}: ${currentGladiator.allSkills} skill`);
 
-        let tech = Object.keys(currentGladiator.techniques).sort((a,b)=>{
+        let tech = Object.keys(currentGladiator.techniques).sort((a, b) => {
             return currentGladiator.techniques[b] - currentGladiator.techniques[a]
-            || a.localeCompare(b);
+                || a.localeCompare(b);
         });
 
         for (let t of tech) {
             console.log(`- ${t} <!> ${currentGladiator.techniques[t]}`);
         }
     }
-
-
 
     function battle(gladiator1Name, gladiator2Name) {
         if (gladiators.hasOwnProperty(gladiator1Name) && gladiators.hasOwnProperty(gladiator2Name)) {
@@ -66,12 +64,6 @@ function arena(arr) {
                     }
                 }
             }
-
-            // if (gladiators[gladiator1Name].allSkills > gladiators[gladiator2Name.allSkills]) {
-            //     delete gladiators[gladiator1Name];
-            // } else {
-            //     delete gladiators[gladiator1Name];
-            // }
         }
     }
 }
